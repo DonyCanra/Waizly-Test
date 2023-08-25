@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Tofu Bao",
+    "description": "crispy, fried tofu bites mixed in a spicy, topped Sausage",
+    "price": 250000,
+    "imgUrl": "https://photo2.foodgawker.com/wp-content/uploads/2020/12/3673283.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Tacos De alambre",
+    "description": "chicken cooked with bacon, topped with Oaxaca cheese",
+    "price": 300000,
+    "imgUrl": "https://photo.foodgawker.com/wp-content/uploads/2020/10/3652339.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Tacos Al Pastor",
+    "description": "warmth from spices and sweetness from pineapple",
+    "price": 200000,
+    "imgUrl": "https://photo2.foodgawker.com/wp-content/uploads/2020/11/3666680.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Chicken Bruschetta",
+    "description": "crunch, succulent juicy chicken and a glaze drizzle",
+    "price": 500000,
+    "imgUrl": "https://photo.foodgawker.com/wp-content/uploads/2020/10/3655673.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Vegetarian Frito Pie",
+    "description": "Kick off the week than with this Vegetarian Frito Pie",
+    "price": 350000,
+    "imgUrl": "https://photo2.foodgawker.com/wp-content/uploads/2020/10/3650127.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Kafta Kebabs",
+    "description": "beautifully flavored with spices and fresh parsley",
+    "price": 200000,
+    "imgUrl": "https://photo2.foodgawker.com/wp-content/uploads/2020/09/3647666.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Balik Ekmek",
+    "description": "BALIK EKMEK / ISTANBUL STREET FLAVOR, FISH SANDWICH",
+    "price": 600000,
+    "imgUrl": "https://photo2.foodgawker.com/wp-content/uploads/2020/09/3642459.jpeg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Kielbasa Quesadillas",
+    "description": "Sausage, peppers, and onions with a twist: Kielbasa Quesadillas",
+    "price": 500000,
+    "imgUrl": "https://photo2.foodgawker.com/wp-content/uploads/2020/07/3625674.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Ground Tacos",
+    "description": "Sandwiches have eggs, bacon, cheese, avocado, spinach, and tomato",
+    "price": 400000,
+    "imgUrl": "https://photo.foodgawker.com/wp-content/uploads/2020/08/3631018.jpg",
+    "status": "ready",
+    "UserId": 1,
+    "CategoryId": 1
+  }
+]
